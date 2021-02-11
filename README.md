@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in CST 😎
-- 🌱 I’m currently leaarning C Language 
+- 🌱 I’m currently learning C Language 
 - 👯 I’m looking to collaborate on **Tech**
 - 💬 Ask me about 🖥
 - 📫 How to reach me: via social media
